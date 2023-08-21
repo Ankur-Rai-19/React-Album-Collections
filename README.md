@@ -22,7 +22,8 @@ With these steps, you can efficiently manage and showcase your photo albums usin
 - Run 'npm start'.
 - Enjoy :)
 
-## Site is live at:
+NOTE: If you do not see the Albums Just click on the HOME Button and then you see all the Albums List
+## Site is live at: https://ankur-rai-19.github.io/React-Album-Collections/
 
 ## SOME SCREENSHOTS:
 
