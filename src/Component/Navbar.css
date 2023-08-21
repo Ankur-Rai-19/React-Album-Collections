@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #313866;
+    min-width: 100%;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    /* position: fixed; */
+}
+#navItem {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: center;
+}
+li,
+a {
+    margin: 5px;
+    margin-top: 1%;
+    text-decoration: none;
+    font-size: large;
+    color: aliceblue;
+}
+li a:hover {
+    text-decoration: none;
+    color: lightgray;
+}
+h1 {
+    color: #fd8d14;
+    margin-top: 0.5%;
+    margin-left: 30%;
+    margin-right: 30%;
+}

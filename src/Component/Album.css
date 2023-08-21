@@ -1,0 +1,60 @@
+.album {
+    border: double 8px grey;
+    max-height: 30%;
+    max-width: 20%;
+    min-width: 20%;
+    min-height: 30%;
+    margin: 5px;
+    text-align: right;
+    color: antiquewhite;
+    background-color: #041c32;
+    padding: 0.8%;
+}
+
+.albumdetails {
+    padding: 3%;
+    text-align: left;
+}
+.header {
+    color: #ffd700;
+}
+.header span {
+    color: antiquewhite;
+}
+
+.btn-ctn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn-ctn button {
+    margin-top: 3%;
+    height: 33px;
+    width: 30%;
+    border: 0;
+    border-radius: 10px;
+    color: #fff;
+    padding: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+}
+
+#update {
+    background-color: rgb(88, 198, 234);
+    width: 75px;
+}
+#update:hover {
+    background-color: rgb(44, 91, 107);
+    text-decoration: none;
+}
+
+#delete {
+    background-color: lightcoral;
+    width: 75px;
+}
+#delete:hover {
+    background-color: rgb(151, 80, 80);
+    text-decoration: none;
+}
